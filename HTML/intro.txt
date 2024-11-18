@@ -1,0 +1,24 @@
+Full Stack -> Frontend, Backend, Database
+
+Frontend -> HTML, CSS, JavaScript, Bootstrap, Jquery
+
+Backend -> Java, Python, JavaScript, .NET, PHP....
+          Spring, Django, Node.js, Laravel....
+
+Client       DNS(Domain Name Server)        Server 
+
+HTTP(HyperText Transfer Protocol) Request
+HTTP Response
+
+HTML(HyperText Markup Language)
+  - used to structure a webpage.
+  - tags (<head>[opening tag]  </head>[closing tag])
+
+  - <html>
+      
+  </html>
+
+  2 types -> Block-level elements, Inline elements
+
+  Forms
+  GET   POST    PUT   DELETE
